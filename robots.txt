@@ -1,0 +1,7 @@
+User-agent: *
+
+User-agent: Yandex
+
+host: pppokerclub.github.io
+
+Sitemap: https://pppokerclub.github.io/sitemap.xml
